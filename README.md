@@ -21,14 +21,14 @@ To test it, it is necessary to configure the .env file with an email and generat
 
 - Gmail
 
-MAIL_MAILER=smtp
-MAIL_HOST=smtp.gmail.com
-MAIL_PORT=587
-MAIL_USERNAME= {"your email here"}
-MAIL_PASSWORD= {"password"}
-MAIL_ENCRYPTION=TLS
-MAIL_FROM_ADDRESS="${MAIL_USERNAME}"
-MAIL_FROM_NAME="${APP_NAME}"
+MAIL_MAILER=smtp <br/>
+MAIL_HOST=smtp.gmail.com <br/>
+MAIL_PORT=587 <br/>
+MAIL_USERNAME= {"your email here"} <br/>
+MAIL_PASSWORD= {"password"} <br/>
+MAIL_ENCRYPTION=TLS <br/>
+MAIL_FROM_ADDRESS="${MAIL_USERNAME}" <br/>
+MAIL_FROM_NAME="${APP_NAME}" <br/>
 
 1 - Click on the option "Manage your Google Account" <br/>
 2 - Click on the "Security" option <br/>
