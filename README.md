@@ -23,10 +23,10 @@ To test it, it is necessary to configure the .env file with an email and generat
 2 - Click on the "Security" option <br/>
 3 - Turn on the "Two-Step Verification" option <br/>
 4 - Click on the "App passwords" option (If it doesn't appear, search for it ) <br/>
-5 - Click on the option "Select the app and device for which you want to 6 - generate the app password" and choose the option "Other" <br/>
-7 - Define a name (can be any name) and then click "generate" <br/>
-8 - The password will be generated, just copy it <br/>
-9 - Use the password copied in the project configuration file (.env, 'MAIL_PASSWORD') <br/>
+5 - Click on the option "Select the app and device for which you want to generate the app password" and choose the option "Other" <br/>
+6 - Define a name (can be any name) and then click "generate" <br/>
+7 - The password will be generated, just copy it <br/>
+8 - Use the password copied in the project configuration file (.env, 'MAIL_PASSWORD') <br/>
 
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
