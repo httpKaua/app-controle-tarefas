@@ -17,5 +17,7 @@
 - Authentication System
 - MVC and more...
 
+To test it, it is necessary to configure the .env file with an email and generate an access password.
+
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
