@@ -7,7 +7,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Projeto com objetivo de aprendizado e aprimoramento de habilidades com Laravel.
+# Project with the objective of learning and improving skills with Laravel
 
 Banco de dados MySQL, exportação para PDF/Excel, configurações de rotas, integração com Bootstrap, compositor, sistema de autenticação e muito mais...
+
+
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
