@@ -9,7 +9,13 @@
 
 # Project with the objective of learning and improving skills with Laravel
 
-Banco de dados MySQL, exportação para PDF/Excel, configurações de rotas, integração com Bootstrap, compositor, sistema de autenticação e muito mais...
+- MySQL database
+- Export to PDF/Excel
+- Route settings
+- Integration with Bootstrap
+- Composer
+- Authentication System
+- MVC and more...
 
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
