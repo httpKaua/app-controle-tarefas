@@ -19,7 +19,7 @@
 
 To test it, it is necessary to configure the .env file with an email and generate an access password.
 
-1 - Click on the option "Manage your Google Account" \n
+1 - Click on the option "Manage your Google Account" <br/>
 2 - Click on the "Security" option
 3 - Turn on the "Two-Step Verification" option
 4 - Click on the "App passwords" option (If it doesn't appear, search for it )
