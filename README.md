@@ -21,6 +21,15 @@ To test it, it is necessary to configure the .env file with an email and generat
 
 - Gmail
 
+MAIL_MAILER=smtp
+MAIL_HOST=smtp.gmail.com
+MAIL_PORT=587
+MAIL_USERNAME= {"your email here"}
+MAIL_PASSWORD= {"password"}
+MAIL_ENCRYPTION=TLS
+MAIL_FROM_ADDRESS="${MAIL_USERNAME}"
+MAIL_FROM_NAME="${APP_NAME}"
+
 1 - Click on the option "Manage your Google Account" <br/>
 2 - Click on the "Security" option <br/>
 3 - Turn on the "Two-Step Verification" option <br/>
