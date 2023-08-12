@@ -19,6 +19,8 @@
 
 To test it, it is necessary to configure the .env file with an email and generate an access password.
 
+- Gmail
+
 1 - Click on the option "Manage your Google Account" <br/>
 2 - Click on the "Security" option <br/>
 3 - Turn on the "Two-Step Verification" option <br/>
