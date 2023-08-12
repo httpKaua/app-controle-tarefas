@@ -20,13 +20,13 @@
 To test it, it is necessary to configure the .env file with an email and generate an access password.
 
 1 - Click on the option "Manage your Google Account" <br/>
-2 - Click on the "Security" option
-3 - Turn on the "Two-Step Verification" option
-4 - Click on the "App passwords" option (If it doesn't appear, search for it )
-5 - Click on the option "Select the app and device for which you want to 6 - generate the app password" and choose the option "Other"
-7 - Define a name (can be any name) and then click "generate"
-8 - The password will be generated, just copy it
-9 - Use the password copied in the project configuration file (.env, 'MAIL_PASSWORD')
+2 - Click on the "Security" option <br/>
+3 - Turn on the "Two-Step Verification" option <br/>
+4 - Click on the "App passwords" option (If it doesn't appear, search for it ) <br/>
+5 - Click on the option "Select the app and device for which you want to 6 - generate the app password" and choose the option "Other" <br/>
+7 - Define a name (can be any name) and then click "generate" <br/>
+8 - The password will be generated, just copy it <br/>
+9 - Use the password copied in the project configuration file (.env, 'MAIL_PASSWORD') <br/>
 
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
