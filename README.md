@@ -19,7 +19,7 @@
 
 To test it, it is necessary to configure the .env file with an email and generate an access password.
 
-- Gmail
+<h3> Gmail </h3>
 
 MAIL_MAILER=smtp <br/>
 MAIL_HOST=smtp.gmail.com <br/>
